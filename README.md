@@ -1,9 +1,9 @@
 # IFS
-Here Are All The Projects And Exercises Related To My Work In "IFS"
+Here Are All The Projects And Exercises Related To My Work In "IFS" (For Students)
 
 ### 🔺Introduction To Computer Science And Programming
 
-### 🔺Intruduction To Python For Students
+### 🔺Intruduction To Python 
 
 ### 🔺Advance Python
 
