@@ -2,9 +2,14 @@
 Here Are All The Projects And Exercises Related To My Work In "IFS" (For Students)
 
 ### 🔺Introduction To Computer Science And Programming
+-  [Link to SLIDES]
+-  Exercises
 
 ### 🔺Intruduction To Python 
-
+-  [Link to SLIDES]
+-  Exercises
+        - Knapsack problem
+        -
 ### 🔺Advance Python
 
 -  math library
