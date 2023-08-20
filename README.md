@@ -8,6 +8,7 @@ Here Are All The Projects And Exercises Related To My Work In "IFS"
 ### 🔺Advance Python
 
 -  math library
+-  pathlib
 -  matplot library
 -  [numpy library]([https://](https://colab.research.google.com/drive/1L69DT-QKJAqa1QoVXkmuUtdJ5q2_Xvox#scrollTo=1iVB-sfvkzpq))
 -  Tensorflow library
