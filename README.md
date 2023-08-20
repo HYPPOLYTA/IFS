@@ -8,8 +8,10 @@ Here Are All The Projects And Exercises Related To My Work In "IFS" (For Student
 ### 🔺Intruduction To Python 
 -  [Link to SLIDES]
 -  Exercises
-        - Knapsack problem
-        -
+-   Knapsack problem
+-   .
+-   .
+-   Final Project: [WhenToMeet website}
 ### 🔺Advance Python
 
 -  math library
