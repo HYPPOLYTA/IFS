@@ -17,14 +17,14 @@ Here Are All The Projects And Exercises Related To My Work In "IFS" (For Student
 -  math library [Link to Colab Notebooke]
 -  pathlib [Link to Colab Notebooke]
 -  matplot library [Link to Colab Notebooke]
--  numpy library [Link to Colab Notebooke](https://colab.research.google.com/drive/1L69DT-QKJAqa1QoVXkmuUtdJ5q2_Xvox#scrollTo=1iVB-sfvkzpq)
+-  numpy library [[Colab Notebooke]](https://colab.research.google.com/drive/1L69DT-QKJAqa1QoVXkmuUtdJ5q2_Xvox#scrollTo=1iVB-sfvkzpq)
 -  Tensorflow library
 -  OpenCv
 
 ### 🔺Intruduction To Artificial Intelligence
-+ What Is AI? [Slides](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
++ What Is AI? [[Slides]](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
 + Deep learning
 
 ### 🔺COLLOQUIUM
-+ What Is AI? [Slides](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
++ What Is AI? [[Slides]](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
       
