@@ -7,13 +7,13 @@ Here Are All The Projects And Exercises Related To My Work In "IFS" (For Student
 
 ### 🔺Intruduction To Python 
 -  [Link to SLIDES]
--  Exercises
+-   Exercises
 -   Knapsack problem
 -   .
 -   .
 -   Final Project: [WhenToMeet website}
 ### 🔺Advance Python
-
+-  OOP in Python
 -  math library [Link to Colab Notebooke]
 -  pathlib [Link to Colab Notebooke]
 -  matplot library [Link to Colab Notebooke]
@@ -24,8 +24,11 @@ Here Are All The Projects And Exercises Related To My Work In "IFS" (For Student
 
 ### 🔺Intruduction To Artificial Intelligence
 + What Is AI? [[Slides]](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
-+ Deep learning
++ Machine learning ( week 1 & 2 )
++ Neural Networks ( week 3 & 4 )
++ Deep Learning 
 
-### 🔺COLLOQUIUM
+
+### 🔺CS COLLOQUIUM
 + What Is AI? [[Slides]](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
       
