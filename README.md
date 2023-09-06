@@ -18,8 +18,8 @@ Here's All The Projects And Exercises Related To My Work In "IFS" (For Students)
 -  pathlib [Link to Colab Notebooke]
 -  matplotl library [Link to Colab Notebooke]
 -  numpy library [[Colab Notebooke]](https://colab.research.google.com/drive/1L69DT-QKJAqa1QoVXkmuUtdJ5q2_Xvox#scrollTo=1iVB-sfvkzpq)
--  Pandas Library
--  OS Madule
+-  Pandas Library [[Colab Notebooke]]()
+-  OS Module [[Colab Notebooke]]()
 -  Tensorflow library
 -  OpenCv
 -  PIL (pillow lib)
