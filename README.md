@@ -35,7 +35,7 @@ Here's All The Projects And Exercises Related To My Work In "IFS" (For Students)
 + Deep Learning 
 
 
-## **🟩Course two:  Advanced AI For Students (Data Science and Machine Learning) **
+## 🟩Course two:  Advanced AI For Students (Data Science and Machine Learning)
 
 
 ## **🔺CS COLLOQUIUM**
