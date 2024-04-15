@@ -1,6 +1,10 @@
 # IFS
 Here's All The Projects And Exercises Related To My Work In "IFS" (For Students)
 
+
+🟩 ## **Course one: Introduction To Artificial Intelligence For Students**
+
+
 ### 🔺Introduction To Computer Science And Programming
 -  [Link to SLIDES]
 -  Exercises
@@ -31,6 +35,9 @@ Here's All The Projects And Exercises Related To My Work In "IFS" (For Students)
 + Deep Learning 
 
 
-### 🔺CS COLLOQUIUM
+🟩 ## **Course two:  Advanced AI For Students (Data Science and Machine Learning) **
+
+
+## **🔺CS COLLOQUIUM**
 + What Is AI? [[Slides]](https://docs.google.com/presentation/d/1ymbEnbegwQbx4X1Pkn3c701G1K6OfETm/edit?usp=drive_link&ouid=103022928796620548298&rtpof=true&sd=true)
       
